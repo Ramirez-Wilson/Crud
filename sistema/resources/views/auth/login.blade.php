@@ -71,5 +71,3 @@
     </div>
 </div>
 @endsection
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus tempore fugiat nulla sint eaque culpa assumenda, modi fugit dolore laborum tenetur labore distinctio asperiores laboriosam quasi odit at reiciendis recusandae!
-
